@@ -1,0 +1,6 @@
+{
+  "name": "Parallel IP WHOIS",
+  "description": "Minimalist multi-slot IP WHOIS and network analyzer to query multiple IPv4 and IPv6 addresses in parallel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
